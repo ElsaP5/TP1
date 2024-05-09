@@ -1,0 +1,28 @@
+Quelques questions pour tester votre mémoire avant de commencer à écrire du HTML :
+
+1. Quelles sont les balises qui sont indispensables pour une page HTML ? 
+
+les balises indispensables pour une page html sont les balises html, head, meta, title, body  <html></html>
+
+2. Quel genre de données retrouve-t-on dans la balise `head`? Et dans la balise `body`? 
+
+dans la balise head ont retrouve les informations de la page mais qui sont pas vue sur la page comme le meta et le title.
+
+3. On a parlé de la balise `title`, où est-ce qu'on retrouvera ce titre dans le rendu de la page HTML dans le navigateur?
+
+on retrouvera ce titre dans l’onglet du navigateur
+
+4. Donner le nom des quatre partie de cet extrait HTML :
+
+ 	1. balise ouvrante p pour paragraph. 
+	2. Deux attributs pour la paragraph. 
+	3. le contenu. 
+	4. balise fermante
+
+5. Quels sont les deux types de listes qu'on peut écrire en HTML ?
+
+ ont peut écrire une ordered list et une unordered list en HTML
+
+6. Quelle est la particularité de la ligne suivante ? 
+
+la balise img est auto-fermante.
